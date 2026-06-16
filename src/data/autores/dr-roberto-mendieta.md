@@ -4,17 +4,17 @@ description: Pediatra con más de 10 años de experiencia, certificado por el Co
 avatar: /assets/images/autores/Arzt.jpg
 redes:
   - red: Facebook
-    url: https://social.com/drrobertomendieta
+    url: https://socialfb.com/drrobertomendieta
   - red: Instagram
-    url: https://social.com/drrobertomendieta
+    url: https://socialint.com/drrobertomendieta
   - red: TikTok
-    url: https://social.com/drrobertomendieta
+    url: https://socialtiktok.com/drrobertomendieta
   - red: Spotify
-    url: https://social.com/drrobertomendieta
+    url: https://socialspotify.com/drrobertomendieta
   - red: LinkedIn
-    url: https://social.com/drrobertomendieta
+    url: https://sociallinkedin.com/drrobertomendieta
   - red: X
-    url: https://social.com/drrobertomendieta
+    url: https://socialx.com/drrobertomendieta
   - red: YouTube
-    url: https://social.com/drrobertomendieta
+    url: https://socialyt.com/drrobertomendieta
 ---

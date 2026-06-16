@@ -3,20 +3,20 @@
 
 :root {
   /* --- COLORES BASE --- */
-  --default-color: #FFFFFF;
-  --default-color-similar: #F4F4F4;
+  --default-color: #ffffff;
+  --default-color-similar: #eaeaea;
   
-  --color-acento: #6C61FF;
-  --color-acento2: #FFE164;
+  --color-acento: #eaeaea;
+  --color-acento2: #ffffff;
 
   /* --- TÍTULOS --- */
-  --titulos-default-color: #6C61FF;
-  --titulos-color-acento: #FFFFFF;
+  --titulos-default-color: #000000;
+  --titulos-color-acento: #000000;
   --titulos-color-acento2: #000000;
 
   /* --- TEXTOS --- */
   --texto-default-color: #000000;
-  --texto-color-acento: #FFFFFF;
+  --texto-color-acento: #000000;
   --texto-color-acento2: #000000;
 
   /* --- FUENTES --- */
@@ -46,7 +46,7 @@ body {
    LAS MÁQUINAS DE CONTRASTE (La magia de tu lógica)
    ========================================== */
 
-/* 1. Fondo Default (Módulos blancos sobre fondo similar) */
+/* 1. Fondo Default */
 .fondo-default {
   background-color: var(--default-color);
   color: var(--texto-default-color);
@@ -56,7 +56,7 @@ body {
   --outline-color: var(--texto-default-color);
 }
 
-/* 2. Fondo Acento (Fondo 6C61FF) */
+/* 2. Fondo Acento */
 .fondo-acento {
   background-color: var(--color-acento);
   color: var(--texto-color-acento);
@@ -66,7 +66,7 @@ body {
   --outline-color: var(--texto-color-acento);
 }
 
-/* 3. Fondo Acento 2 (Fondo FFE164) */
+/* 3. Fondo Acento 2 */
 .fondo-acento2 {
   background-color: var(--color-acento2);
   color: var(--texto-color-acento2);
